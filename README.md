@@ -1,0 +1,1 @@
+O meu rito de aprendizado de uma linguagem de programação, de agora em diante, será criar um blackjack simples nessa linguagem. Aqui depositarei blackjack em todas aquelas linguagens que eu buscar aprender.
